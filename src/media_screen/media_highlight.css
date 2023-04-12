@@ -1,0 +1,520 @@
+@media only screen and (min-width:2800px) and (max-width: 3000px) {
+    .title-highlights{
+        font-size:2rem;
+    }
+    .hightlight-list{
+        height: 30%;
+        width:90%;
+        margin-left: 4%;
+    }
+    .wind-status{
+        height:20%;
+    }
+    .fa-solid.fa-wind, .fa-solid.fa-gauge, .fa-solid.fa-water, .fa-solid.fa-sun{
+        font-size: 3rem;
+    }
+    .fa-solid.fa-sun{
+        font-size: 3.5rem;
+    }
+    .fa-solid.fa-arrow-up, .fa-solid.fa-arrow-down{
+        font-size: 2rem;
+    }
+    .sunset-info, .sunrise-info{
+        height:20%;
+        margin-top: 13%;
+    }
+    .sunrise, .sunset{
+        font-size: 1.8rem;
+    }
+    .water-drop .fa-droplet{
+        font-size: larger;
+        bottom:-10px;
+    }
+    .status{
+        font-size: 1.9rem;
+    }
+    .humidity-percentage{
+        margin-top: 10%;
+    }
+    .wind-speed{
+        margin-top: 25%;
+    }
+    .pressure{
+        margin-top: 30%;
+    }
+    .wind-speed, .humidity, .pressure{
+        font-size: 5rem;
+    }
+    .wind-speed span, .humidity span, .pressure span{
+        font-size: 2.5rem;
+    }
+
+}
+
+@media only screen and (min-width:2600px) and (max-width: 2800px) {
+    .title-highlights{
+        font-size:2rem;
+    }
+    .hightlight-list{
+        height: 28%;
+        width:90%;
+        margin-left: 4%;
+    }
+    .wind-status{
+        height:20%;
+    }
+    .fa-solid.fa-wind, .fa-solid.fa-gauge, .fa-solid.fa-water, .fa-solid.fa-sun{
+        font-size: 2.8rem;
+    }
+    .fa-solid.fa-sun{
+        font-size: 3.4rem;
+    }
+    .fa-solid.fa-arrow-up, .fa-solid.fa-arrow-down{
+        font-size: 2rem;
+    }
+    .sunset-info, .sunrise-info{
+        height:20%;
+        margin-top: 14%;
+    }
+    .sunrise, .sunset{
+        font-size: 1.8rem;
+    }
+    .water-drop .fa-droplet{
+        font-size: larger;
+        bottom:-7px;
+    }
+    .status{
+        font-size: 1.8rem;
+    }
+    .humidity-percentage{
+        margin-top: 8.5%;
+    }
+    .wind-speed{
+        margin-top: 26%;
+    }
+    .pressure{
+        margin-top: 30%;
+    }
+    .wind-speed, .humidity, .pressure{
+        font-size: 5rem;
+    }
+    .wind-speed span, .humidity span, .pressure span{
+        font-size: 2.5rem;
+    }
+}
+
+@media only screen and (min-width:2400px) and (max-width: 2600px) {
+    .title-highlights{
+        font-size:2rem;
+    }
+    .hightlight-list{
+        height: 27%;
+        width:90%;
+        margin-left: 4%;
+        margin-top: 5%;
+    }
+    .wind-status{
+        height:20%;
+    }
+    .fa-solid.fa-wind, .fa-solid.fa-gauge, .fa-solid.fa-water, .fa-solid.fa-sun{
+        font-size: 2.8rem;
+    }
+    .fa-solid.fa-sun{
+        font-size: 3.3rem;
+    }
+    .fa-solid.fa-arrow-up, .fa-solid.fa-arrow-down{
+        font-size: 2rem;
+    }
+    .sunset-info, .sunrise-info{
+        height:18%;
+        margin-top: 13%;
+    }
+    .sunrise, .sunset{
+        font-size: 1.8rem;
+    }
+    .water-drop .fa-droplet{
+        font-size: larger;
+        bottom:-8px;
+        right:-2px;
+    }
+    .status{
+        font-size: 1.65rem;
+    }
+    .humidity-percentage{
+        margin-top: 5%;
+    }
+    .wind-speed{
+        margin-top: 23%;
+    }
+    .pressure{
+        margin-top: 26%;
+    }
+    .wind-speed, .humidity, .pressure{
+        font-size: 4.5rem;
+    }
+    .wind-speed span, .humidity span, .pressure span{
+        font-size: 2.3rem;
+    }
+
+}
+
+@media only screen and (min-width:2200px) and (max-width: 2400px) {
+    .title-highlights{
+        font-size:1.8rem;
+    }
+    .hightlight-list{
+        height: 26%;
+        width:90%;
+        margin-left: 4%;
+        margin-top: 5%;
+    }
+    .wind-status{
+        height:20%;
+    }
+    .fa-solid.fa-wind, .fa-solid.fa-gauge, .fa-solid.fa-water, .fa-solid.fa-sun{
+        font-size: 2.7rem;
+    }
+    .fa-solid.fa-sun{
+        font-size: 2.8rem;
+    }
+    .fa-solid.fa-arrow-up, .fa-solid.fa-arrow-down{
+        font-size: 1.8rem;
+    }
+    .sunset-info, .sunrise-info{
+        height:16%;
+        margin-top: 14%;
+    }
+    .sunrise, .sunset{
+        font-size: 1.7rem;
+    }
+    .water-drop .fa-droplet{
+        font-size: larger;
+        bottom:-6px;
+        right:-2px;
+    }
+    .status{
+        font-size: 1.5rem;
+    }
+    .humidity-percentage{
+        margin-top: 5%;
+    }
+    .wind-speed{
+        margin-top: 23%;
+    }
+    .pressure{
+        margin-top: 26%;
+    }
+    .wind-speed, .humidity, .pressure{
+        font-size: 4rem;
+    }
+    .wind-speed span, .humidity span, .pressure span{
+        font-size: 2rem;
+    }
+}
+
+@media only screen and (min-width:2000px) and (max-width: 2200px) {
+    .title-highlights{
+        font-size:1.6rem;
+    }
+    .hightlight-list{
+        height: 26%;
+        width:90%;
+        margin-left: 4%;
+        margin-top: 5%;
+    }
+    .wind-status{
+        height:20%;
+    }
+    .fa-solid.fa-wind, .fa-solid.fa-gauge, .fa-solid.fa-water, .fa-solid.fa-sun{
+        font-size: 2.2rem;
+    }
+    .fa-solid.fa-sun{
+        font-size: 2.5rem;
+    }
+    .fa-solid.fa-arrow-up, .fa-solid.fa-arrow-down{
+        font-size: 1.6rem;
+    }
+    .sunset-info, .sunrise-info{
+        height:16%;
+        margin-top: 15%;
+    }
+    .sunrise, .sunset{
+        font-size: 1.5rem;
+    }
+    .water-drop .fa-droplet{
+        font-size: larger;
+        bottom:-6px;
+        right:-2px;
+    }
+    .status{
+        font-size: 1.3rem;
+    }
+    .humidity-percentage{
+        margin-top: 5%;
+    }
+    .wind-speed{
+        margin-top: 23%;
+    }
+    .pressure{
+        margin-top: 26%;
+    }
+    .wind-speed, .humidity, .pressure{
+        font-size: 3.6rem;
+    }
+    .wind-speed span, .humidity span, .pressure span{
+        font-size: 1.6rem;
+    }
+}
+
+@media only screen and (min-width:1800px) and (max-width: 2000px) {
+    .title-highlights{
+        font-size:1.6rem;
+    }
+    .hightlight-list{
+        height: 26%;
+        width:92%;
+        margin-left: 3%;
+        margin-top: 5%;
+    }
+    .wind-status{
+        height:20%;
+    }
+    .fa-solid.fa-wind, .fa-solid.fa-gauge, .fa-solid.fa-water, .fa-solid.fa-sun{
+        font-size: 2rem;
+    }
+    .fa-solid.fa-sun{
+        font-size: 2.3rem;
+    }
+    .fa-solid.fa-arrow-up, .fa-solid.fa-arrow-down{
+        font-size: 1.5rem;
+    }
+    .sunset-info, .sunrise-info{
+        height:16%;
+        margin-top: 17%;
+    }
+    .sunrise, .sunset{
+        font-size: 1.4rem;
+    }
+    .water-drop .fa-droplet{
+        font-size: large;
+        bottom:-6px;
+        right:-3px;
+    }
+    .status{
+        font-size: 1.2rem;
+    }
+    .humidity-percentage{
+        margin-top: 5%;
+    }
+    .wind-speed{
+        margin-top: 23%;
+    }
+    .pressure{
+        margin-top: 26%;
+    }
+    .wind-speed, .humidity, .pressure{
+        font-size: 3.4rem;
+    }
+    .wind-speed span, .humidity span, .pressure span{
+        font-size: 1.6rem;
+    }
+}
+
+@media only screen and (min-width:1600px) and (max-width: 1800px) {
+    .title-highlights{
+        font-size:1.6rem;
+    }
+    .hightlight-list{
+        height: 26%;
+        width:93%;
+        margin-left: 3%;
+        margin-top: 5%;
+    }
+    .wind-status{
+        height:20%;
+    }
+    .fa-solid.fa-wind, .fa-solid.fa-gauge, .fa-solid.fa-water{
+        font-size: 1.9rem;
+    }
+    .fa-solid.fa-sun{
+        font-size: 2.2rem;
+    }
+    .fa-solid.fa-arrow-up, .fa-solid.fa-arrow-down{
+        font-size: 1.4rem;
+    }
+    .sunset-info, .sunrise-info{
+        height:16%;
+        margin-top: 19%;
+    }
+    .sunrise, .sunset{
+        font-size: 1.3rem;
+    }
+    .water-drop .fa-droplet{
+        font-size: large;
+        bottom:-6px;
+        right:-3px;
+    }
+    .status{
+        font-size: 1.1rem;
+    }
+    .humidity-percentage{
+        margin-top: 7%;
+    }
+    .wind-speed{
+        margin-top: 24%;
+    }
+    .pressure{
+        margin-top: 27%;
+    }
+    .wind-speed, .humidity, .pressure{
+        font-size: 3.3rem;
+    }
+    .wind-speed span, .humidity span, .pressure span{
+        font-size: 1.6rem;
+    }
+}
+
+@media only screen and (min-width:1400px) and (max-width: 1600px) {
+    .title-highlights{
+        font-size:1.6rem;
+    }
+    .hightlight-list{
+        width:93%;
+        margin-left: 3%;
+        margin-top: 5px;
+    }
+    .wind-status{
+        height:20%;
+    }
+    .fa-solid.fa-wind, .fa-solid.fa-gauge, .fa-solid.fa-water{
+        font-size: 1.7rem;
+    }
+    .fa-solid.fa-sun{
+        font-size: 2.1rem;
+    }
+    .fa-solid.fa-arrow-up, .fa-solid.fa-arrow-down{
+        font-size: 1.3rem;
+    }
+    .sunset-info, .sunrise-info{
+        height:16%;
+        margin-top: 20%;
+    }
+    .sunrise, .sunset{
+        font-size: 1.2rem;
+    }
+    .water-drop .fa-droplet{
+        font-size: medium;
+        bottom:-3px;
+        right:-3px;
+    }
+    .status{
+        font-size: 1rem;
+    }
+    .humidity-percentage{
+        margin-top: 5%;
+    }
+    .wind-speed{
+        margin-top: 20%;
+    }
+    .pressure{
+        margin-top: 25%;
+    }
+    .wind-speed, .humidity, .pressure{
+        font-size: 3rem;
+    }
+    .wind-speed span, .humidity span, .pressure span{
+        font-size: 1.4rem;
+    }
+}
+
+@media only screen and (min-width:1000px) and (max-width: 1200px) {
+    .title-highlights{
+        font-size:1.2rem;
+    }
+    .hightlight-list{
+        height: 26%;
+        width:93%;
+        margin-left: 3%;
+        margin-top: 5px;
+    }
+    .wind-status{
+        height:20%;
+    }
+    .fa-solid.fa-wind, .fa-solid.fa-gauge, .fa-solid.fa-water{
+        font-size: 1.3rem;
+    }
+    .fa-solid.fa-sun{
+        font-size: 1.6rem;
+    }
+    .fa-solid.fa-arrow-up, .fa-solid.fa-arrow-down{
+        font-size: 1rem;
+    }
+    .sunset-info, .sunrise-info{
+        height:16%;
+        margin-top: 20%;
+    }
+    .sunrise, .sunset{
+        font-size: 1rem;
+    }
+    .water-drop .fa-droplet{
+        font-size: small;
+        bottom:-3px;
+        right:-3px;
+    }
+    .status{
+        font-size: 0.8rem;
+    }
+    .wind-speed{
+        margin-top: 23%;
+    }
+    .pressure{
+        margin-top: 28%;
+    }
+    .wind-speed, .humidity, .pressure{
+        font-size: 2.2rem;
+    }
+    .wind-speed span, .humidity span, .pressure span{
+        font-size: 1.1rem;
+    }
+}
+
+@media only screen and (max-width: 940px) {
+    .input-container input {
+        width:100%;
+    }
+    .left-side-app {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .right-side-app {
+        width: 100%;
+        border-radius: 0 0 30px 30px;
+    }
+
+
+}
+
+#style-theme-container {
+    height: 200px;
+    width: 200px;
+}
+
+@media only screen and (max-width: 1205px) {
+    .card-list {
+        display: flex;
+        height: auto;
+        width: 90%;
+        margin: auto;
+        background-color: transparent;
+        margin-top: 1%;
+        justify-content: center;
+        flex-flow: wrap;
+    }
+
+    .card-container {
+        margin: 10px;
+    }
+}

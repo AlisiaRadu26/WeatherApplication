@@ -1,0 +1,133 @@
+@media only screen and (min-width:2600px) and (max-width: 3000px) {
+    .forecast-tabs{
+        font-size:x-large;
+    }
+    .button-change{
+        width:60px;
+        height: 30px;
+        border-radius: 20px;
+    }
+    .button-change .circle-left, .button-change .circle-right{
+        width:30px;
+        height: 31px;
+    }  
+}
+
+@media only screen and (min-width:2600px) and (max-width: 2665px) {
+    .forecast-tabs{
+        width: 16%;
+    }
+}
+
+@media only screen and (min-width:2400px) and (max-width: 2600px) {
+    .forecast-tabs{
+        font-size:x-large;
+        width: 18%;
+    } 
+    .button-change{
+        width:60px;
+        height: 30px;
+        border-radius: 20px;
+    }
+    .button-change .circle-left, .button-change .circle-right{
+        width:30px;
+        height: 31px;
+    }     
+}
+
+@media only screen and (min-width:2200px) and (max-width: 2400px) {
+    .forecast-tabs{
+        font-size: x-large;
+        width: 20%;
+    } 
+    .button-change{
+        width:60px;
+        height: 30px;
+        border-radius: 20px;
+    }
+    .button-change .circle-left, .button-change .circle-right{
+        width:30px;
+        height: 31px;
+    }     
+}
+
+@media only screen and (min-width:2000px) and (max-width: 2200px) {
+    .forecast-tabs{
+        font-size: 1.4rem;
+        width: 20%;
+    } 
+    .button-change{
+        width:55px;
+        height: 28px;
+        border-radius: 20px;
+    }
+    .button-change .circle-left, .button-change .circle-right{
+        width:28px;
+        height: 28px;
+    }       
+}
+
+@media only screen and (min-width:1800px) and (max-width: 2000px) {
+    .forecast-tabs{
+        font-size: 1.3rem;
+        width: 21%;
+    } 
+    .button-change{
+        width:55px;
+        height: 28px;
+        border-radius: 20px;
+    }
+    .button-change .circle-left, .button-change .circle-right{
+        width:28px;
+        height: 28px;
+    }       
+}
+
+@media only screen and (min-width:1600px) and (max-width: 1800px) {
+    .forecast-tabs{
+        font-size: 1.2rem;
+        width: 23%;
+    } 
+    .button-change{
+        width:50px;
+        height: 25px;
+        border-radius: 20px;
+    }
+    .button-change .circle-left, .button-change .circle-right{
+        width:25px;
+        height: 25px;
+    }       
+}
+
+@media only screen and (min-width:1400px) and (max-width: 1600px) {
+    .forecast-tabs{
+        font-size: 1.2rem;
+        width: 25%;
+    } 
+    .button-change{
+        width:50px;
+        height: 25px;
+        border-radius: 20px;
+    }
+    .button-change .circle-left, .button-change .circle-right{
+        width:25px;
+        height: 25px;
+    }       
+}
+
+@media only screen and (min-width:1000px) and (max-width: 1200px) {
+    .forecast-tabs{
+        font-size: 1rem;
+        width: 30%;
+    } 
+    .button-change{
+        width:45px;
+        height: 22px;
+        border-radius: 20px;
+    }
+    .button-change .circle-left, .button-change .circle-right{
+        width:22px;
+        height: 22px;
+    }       
+}
+

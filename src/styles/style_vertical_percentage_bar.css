@@ -1,0 +1,16 @@
+.vertical-percentage-bar-container {
+    background-color: lightgrey;
+    width: 15%;
+    height: 80%;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 0px 0px 35px 35px;
+  }
+  
+  .vertical-percentage-bar {
+    width: 100%;
+    background-color: lightslategray;
+    transition: height 0.5s;
+    border-radius: 0px 0px 35px 35px;
+  }
+  

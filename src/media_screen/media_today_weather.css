@@ -1,0 +1,528 @@
+@media only screen and (min-width:2800px) and (max-width: 3000px) {
+    .input-container{
+        height: 6%;
+    }
+    .input-container input::placeholder, .input-container input{
+        font-size: x-large;
+    }
+    .input-container i{
+        font-size: x-large;
+    }
+    .favorite-cities-dropdown li{
+        font-size: x-large;
+    }
+    .img-container img{
+        width: 60%;
+        height: 55%;
+    }
+    .today-weather-card .temperature{
+        font-size: 6rem;
+    }
+    .today-weather-card .temperature span{
+        font-size: 3.5rem;
+    }
+    .today-weather-card .time .day{
+        font-size: 2.3rem;
+    }
+    .today-weather-card .time .minutes{
+        font-size: 2.3rem;
+    }
+    .today-weather-card .description{
+        font-size: 2em;
+    }
+    .theme-container{
+        width:80%;
+        height:55%;
+        text-shadow: black 0px 4px 5px;
+    }
+    .theme-container .fa-regular.fa-star{
+        font-size: 2.5rem;
+    }
+    .theme-container .fa-solid.fa-star{
+        font-size: 2.5rem;
+    }
+    .today-weather-card h2{
+        font-size: 2.5rem;
+    }
+}
+
+@media only screen and (min-width:2600px) and (max-width: 2800px) {
+    .input-container{
+        height: 5%;
+    }
+    .input-container input::placeholder, .input-container input{
+        font-size: x-large;
+    }
+    .input-container i{
+        font-size: x-large;
+    }
+    .favorite-cities-dropdown li{
+        font-size: x-large;
+    }
+    .img-container img{
+        width: 61%;
+        height: 56%;
+    }
+    .today-weather-card .temperature{
+        font-size: 6.5rem;
+    }
+    .today-weather-card .temperature span{
+        font-size: 3.5rem;
+    }
+    .today-weather-card .time .day{
+        font-size: 2.5rem;
+    }
+    .today-weather-card .time .minutes{
+        font-size: 2.5rem;
+    }
+    .today-weather-card .description{
+        font-size: 2rem;
+    }
+    .theme-container{
+        width:74%;
+        height:55%;
+        text-shadow: black 0px 4px 5px;
+    }
+    .theme-container .fa-regular.fa-star{
+        font-size: 2.3rem;
+    }
+    .theme-container .fa-solid.fa-star{
+        font-size: 2.3rem;
+    }
+    .today-weather-card h2{
+        font-size: 2.3rem;
+    }
+}
+
+@media only screen and (min-width:2400px) and (max-width: 2600px) {
+    .input-container{
+        height: 5%;
+    }
+    .input-container input::placeholder, .input-container input{
+        font-size: x-large;
+    }
+    .input-container i{
+        font-size: x-large;
+    }
+    .favorite-cities-dropdown li{
+        font-size: x-large;
+    }
+    .img-container img{
+        width: 63%;
+        height: 58%;
+    }
+    .today-weather-card .temperature{
+        font-size: 6rem;
+    }
+    .today-weather-card .temperature span{
+        font-size: 3rem;
+    }
+    .today-weather-card .time .day{
+        font-size: 2rem;
+    }
+    .today-weather-card .time .minutes{
+        font-size: 2rem;
+    }
+    .today-weather-card .description{
+        font-size: 2em;
+    }
+    .theme-container{
+        width:75%;
+        height:55%;
+        text-shadow: black 0px 4px 5px;
+    }
+    .theme-container .fa-regular.fa-star{
+        font-size: 2.3rem;
+    }
+    .theme-container .fa-solid.fa-star{
+        font-size: 2.3rem;
+    }
+    .today-weather-card h2{
+        font-size: 2.3rem;
+    }
+}
+
+@media only screen and (min-width:2200px) and (max-width: 2400px) {
+    .input-container{
+        height: 5%;
+    }
+    .input-container input::placeholder, .input-container input{
+        font-size: x-large;
+    }
+    .input-container i{
+        font-size: x-large;
+    }
+    .favorite-cities-dropdown li{
+        font-size: x-large;
+    }
+    .img-container img{
+        width: 60%;
+        height: 55%;
+    }
+    .today-weather-card .temperature{
+        font-size: 5.8rem;
+    }
+    .today-weather-card .temperature span{
+        font-size: 2.8rem;
+    }
+    .today-weather-card .time .day{
+        font-size: 1.9rem;
+    }
+    .today-weather-card .time .minutes{
+        font-size: 1.9rem;
+    }
+    .today-weather-card .description{
+        font-size: 1.9em;
+    }
+    .theme-container{
+        width:75%;
+        height:55%;
+        text-shadow: black 0px 3px 4px;
+    }
+    .theme-container .fa-regular.fa-star{
+        font-size: 2.1rem;
+    }
+    .theme-container .fa-solid.fa-star{
+        font-size: 2.1rem;
+    }
+    .today-weather-card h2{
+        font-size: 2.1rem;
+    }
+    .under-hr{
+        margin-top: 6%;
+    }
+}
+
+@media only screen and (min-width:2000px) and (max-width: 2200px) {
+    .input-container{
+        height: 5%;
+    }
+    .input-container input::placeholder, .input-container input{
+        font-size: large;
+    }
+    .input-container i{
+        font-size: large;
+    }
+    .favorite-cities-dropdown li{
+        font-size: large;
+    }
+    .img-container img{
+        width: 58%;
+        height: 53%;
+    }
+    .today-weather-card .temperature{
+        font-size: 5rem;
+    }
+    .today-weather-card .temperature span{
+        font-size: 2.5rem;
+    }
+    .today-weather-card .time .day{
+        font-size: 1.7rem;
+    }
+    .today-weather-card .time .minutes{
+        font-size: 1.7rem;
+    }
+    .today-weather-card .description{
+        font-size: 1.7em;
+    }
+    .theme-container{
+        width:77%;
+        height:58%;
+        text-shadow: black 0px 2px 3px;
+    }
+    .theme-container .fa-regular.fa-star{
+        font-size: 1.8rem;
+    }
+    .theme-container .fa-solid.fa-star{
+        font-size: 1.8rem;
+    }
+    .today-weather-card h2{
+        font-size: 1.8rem;
+    }
+    .under-hr{
+        margin-top: 8%;
+    }
+}
+
+@media only screen and (min-width:1800px) and (max-width: 2000px) {
+    .input-container{
+        height: 5%;
+    }
+    .input-container input::placeholder, .input-container input{
+        font-size: large;
+    }
+    .input-container i{
+        font-size: large;
+    }
+    .favorite-cities-dropdown li{
+        font-size: large;
+    }
+    .img-container img{
+        width: 55%;
+        height: 50%;
+    }
+    .today-weather-card .temperature{
+        font-size: 4.5rem;
+    }
+    .today-weather-card .temperature span{
+        font-size: 2.2rem;
+    }
+    .today-weather-card .time .day{
+        font-size: 1.6rem;
+    }
+    .today-weather-card .time .minutes{
+        font-size: 1.6rem;
+    }
+    .today-weather-card .description{
+        font-size: 1.7em;
+    }
+    .theme-container{
+        width:85%;
+        height:60%;
+        text-shadow: black 0px 2px 3px;
+    }
+    .theme-container .fa-regular.fa-star{
+        font-size: 1.7rem;
+    }
+    .theme-container .fa-solid.fa-star{
+        font-size: 1.7rem;
+    }
+    .today-weather-card h2{
+        font-size: 1.7rem;
+    }
+    .under-hr{
+        margin-top: 10%;
+    }
+}
+
+.img-container img#todayImg{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+.today-weather-card .temperature{
+    font-size: 4.5rem;
+}
+
+@media only screen and (min-width:1600px) and (max-width: 1800px) {
+    .input-container{
+        height: 5%;
+    }
+    .input-container input::placeholder, .input-container input{
+        font-size: large;
+    }
+    .input-container i{
+        font-size: large;
+    }
+    .favorite-cities-dropdown li{
+        font-size: large;
+    }
+    .img-container img#todayImg{
+        width: 200px;
+        height: 200px;
+        margin: auto;
+    }
+    .today-weather-card .temperature{
+        font-size: 4.5rem;
+    }
+    .today-weather-card .temperature span{
+        font-size: 2.2rem;
+    }
+    .today-weather-card .time .day{
+        font-size: 1.7rem;
+    }
+    .today-weather-card .time .minutes{
+        font-size: 1.7rem;
+    }
+    .today-weather-card .description{
+        font-size: 1.6em;
+    }
+    .theme-container{
+        width:85%;
+        height:60%;
+        text-shadow: black 0px 2px 3px;
+    }
+    .theme-container .fa-regular.fa-star{
+        font-size: 1.5rem;
+    }
+    .theme-container .fa-solid.fa-star{
+        font-size: 1.5rem;
+    }
+    .today-weather-card h2{
+        font-size: 1.5rem;
+    }
+    .under-hr{
+        margin-top: 12%;
+    }
+}
+
+@media only screen and (min-width:1400px) and (max-width: 1600px) {
+    .input-container{
+        height: 5%;
+    }
+    .input-container input::placeholder, .input-container input{
+        font-size: large;
+    }
+    .input-container i{
+        font-size: large;
+    }
+    .favorite-cities-dropdown li{
+        font-size: large;
+    }
+    .img-container img{
+        width: 55%;
+        height: 50%;
+    }
+    .today-weather-card .temperature{
+        font-size: 3.5rem;
+        margin-top: 10%;
+    }
+    .today-weather-card .temperature span{
+        font-size: 2rem;
+    }
+    .today-weather-card .time .day{
+        font-size: 1.5rem;
+    }
+    .today-weather-card .time .minutes{
+        font-size: 1.5rem;
+    }
+    .today-weather-card .description{
+        font-size: 1.3em;
+    }
+    .theme-container{
+        width:85%;
+        height:60%;
+        text-shadow: black 0px 1px 2px;
+    }
+    .theme-container .fa-regular.fa-star{
+        font-size: 1.3rem;
+    }
+    .theme-container .fa-solid.fa-star{
+        font-size: 1.3rem;
+    }
+    .today-weather-card h2{
+        font-size: 1.3rem;
+    }
+    .under-hr{
+        margin-top: 12%;
+    }
+    .today-weather-card{
+        margin-top: 10%;
+    }
+}
+
+@media only screen and (min-width:1000px) and (max-width: 1200px) {
+    .input-container{
+        height: 5%;
+    }
+    .input-container input::placeholder, .input-container input{
+        font-size: medium;
+    }
+    .input-container i{
+        font-size: medium;
+    }
+    .favorite-cities-dropdown li{
+        font-size: medium;
+    }
+    .img-container img{
+        width: 60%;
+        height: 55%;
+    }
+    .today-weather-card .temperature{
+        font-size: 3rem;
+        margin-top: 15%;
+    }
+    .today-weather-card .temperature span{
+        font-size: 1.5rem;
+    }
+    .today-weather-card .time .day{
+        font-size: 1.3rem;
+    }
+    .today-weather-card .time .minutes{
+        font-size: 1.3rem;
+    }
+    .today-weather-card .description{
+        font-size: 1rem;
+    }
+    .theme-container{
+        width:85%;
+        height:60%;
+        text-shadow: black 0px 1px 2px;
+    }
+    .theme-container .fa-regular.fa-star{
+        font-size: 1rem;
+    }
+    .theme-container .fa-solid.fa-star{
+        font-size: 1rem;
+    }
+    .today-weather-card h2{
+        font-size: 1rem;
+    }
+    .under-hr{
+        margin-top: 12%;
+    }
+    .today-weather-card{
+        margin-top: 20%;
+    }
+}
+
+@media only screen and (min-width:700px) and (max-width: 800px) {
+    .input-container{
+        height: 5%;
+    }
+    .input-container input::placeholder, .input-container input{
+        font-size: medium;
+    }
+    .input-container i{
+        font-size: medium;
+    }
+    .favorite-cities-dropdown li{
+        font-size: medium;
+    }
+    .img-container img{
+        width: 60%;
+        height: 55%;
+    }
+    .today-weather-card .temperature{
+        font-size: 3rem;
+        margin-top: 15%;
+    }
+    .today-weather-card .temperature span{
+        font-size: 1.5rem;
+    }
+    .today-weather-card .time .day{
+        font-size: 1.3rem;
+    }
+    .today-weather-card .time .minutes{
+        font-size: 1.3rem;
+    }
+    .today-weather-card .description{
+        font-size: 1rem;
+    }
+    .theme-container{
+        width:85%;
+        height:60%;
+        text-shadow: black 0px 1px 2px;
+    }
+    .theme-container .fa-regular.fa-star{
+        font-size: 1rem;
+    }
+    .theme-container .fa-solid.fa-star{
+        font-size: 1rem;
+    }
+    .today-weather-card h2{
+        font-size: 1rem;
+    }
+    .under-hr{
+        margin-top: 12%;
+    }
+    .today-weather-card{
+        margin-top: 20%;
+    }
+}
+
+@media only screen and (max-width: 1875px) {
+    .right-side-app {
+        height: 100%;
+    }
+}

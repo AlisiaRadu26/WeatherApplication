@@ -1,0 +1,183 @@
+.loading-container{
+    background-color: transparent;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.left-side-app {
+    margin: 0;
+    flex-basis: 30%;
+    width: 30%;
+    height: 100%;
+    background-color: white;
+    border-radius: 35px 0px 0px 35px;
+}
+
+.today-weather-card{
+    background-color: white;
+    width: 100%;
+    height: 92%;
+    margin: 0px;
+    color: #20262E;
+    font-family: Montserrat;
+    border-radius: 35px;
+    position: relative;
+}
+.today-weather-card h2, .today-weather-card p, .today-weather-card div, .today-weather-card img, .today-weather-card label, .today-weather-card input{
+    background-color: white;
+    margin-left:15px;
+    margin-right: 15px;
+}
+
+.input-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 8%;
+    cursor: pointer;
+}
+.input-container i{
+    background-color: white;
+    margin:0;
+    text-align: center;
+}
+.input-container input{
+    outline: none;
+    border: none;
+    background-color: white;
+    width: 50%;
+    padding: 10px 10px;
+    margin: 0;
+    font-size: medium;
+    cursor: pointer;
+}
+.input-container input::placeholder{
+    font-size: medium;
+    font-family: Montserrat;
+}
+
+.favorite-cities-dropdown{
+    position: absolute;
+    left:15%;
+    top:4%;
+    width:60%;
+    height:60%;
+    background-color: transparent;
+}
+.favorite-cities-dropdown.hidden{
+    display: none;
+}
+.favorite-cities-dropdown li{
+    background-color: #EEEEEE;
+    list-style-type: none;
+    padding: 3% 5%;
+    margin-bottom: 0%;
+    margin-top: 0;
+    font-weight: 500;
+    border-bottom: 2px solid lightgrey;
+    cursor: pointer;
+}
+.img-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img-container img{
+    width: 55%;
+    height: 50%;
+    image-rendering: optimizeQuality;
+}
+
+.today-weather-card .temperature{
+    font-size: 3.5rem;
+    display: flex;
+    font-weight: 500;
+    margin-left: 3rem;
+}
+.today-weather-card .temperature span{
+    background-color: white;
+    font-size: 2.2rem;
+    font-weight: 500;
+    margin:0;
+}
+
+.today-weather-card .time{
+    display: flex;
+}
+.today-weather-card .time span{
+    background-color: white;
+}
+
+.today-weather-card .time .day{
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin: 0;
+    margin-left: 1.4rem;
+}
+.today-weather-card .time .minutes{
+    font-size: 1.3rem;
+    font-weight: 400;
+    margin: 0;
+    margin-left: 5px;
+    color: #D0C9C0;
+}
+
+.today-weather-card hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(115, 110, 110, 0), rgba(170, 164, 164, 0.75), rgba(115, 110, 110, 0));
+    margin-bottom: 0;
+}
+.today-weather-card .description{
+    text-transform: capitalize;
+    font-size: 1.2em;
+    background-color: transparent;
+    font-weight: 600;
+}
+.today-weather-card h2{
+    background-color: transparent;
+    font-size: x-large;
+}
+.under-hr{
+    width:90%;
+    height:30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 35px;
+    margin-left: 20px;
+}
+
+.theme-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:70%;
+    height:55%;
+    background-position: center;
+    background-size: cover;
+    border-radius: 25px;
+    color:white;
+    box-shadow: 0px 0px 10px 0.5px grey;
+    text-shadow: black 0px 1px 2px;
+    margin-top: 5%;
+}
+.theme-container .fa-regular.fa-star{
+    margin: 0;
+    background-color: transparent;
+    color:white;
+    cursor: pointer;
+}
+.theme-container .fa-regular.fa-star.unfavorite{
+    display: none;
+}
+.theme-container .fa-solid.fa-star{
+    margin: 0;
+    background-color: transparent;
+    color:white;
+    cursor: pointer;
+}
+.theme-container .fa-solid.fa-star.unfavorite{
+    display: none;
+}

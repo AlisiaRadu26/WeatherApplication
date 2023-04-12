@@ -1,0 +1,180 @@
+.title-highlights{
+    background-color: transparent;
+    margin-top: 6%;
+    margin-left: 3%;
+}
+.hightlight-list{
+    display: flex;
+    flex-wrap: wrap;
+    height: fit-content;
+    background-color: transparent;
+    justify-content: center;
+}
+.hightlight-container{
+    background-color: white;
+    margin:0;
+    margin-left: 2%;
+    width:250px;
+    height: 200px;
+    border-radius: 35px;
+    margin-top: 1%;
+}
+.wind-container{
+    background-color: white;
+    width:80%;
+    height:85%;
+    margin-top: 6%;
+}
+.wind-status{
+    display: flex;
+    background-color: white;
+    align-items: center;
+}
+.fa-solid.fa-wind{
+    width:20%;
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 2%;
+    color:lightgrey;
+}
+.status{
+    background-color: white;
+    display: inline;
+    margin-left: 5%;
+    font-weight: 500;
+    color: lightgrey;
+    font-size: large;
+}
+.wind-status .status{
+    margin-left: 0px;
+}
+.wind-speed{
+    background-color: white;
+    margin-top: 25%;
+    font-weight: 500;
+    font-size: 3rem;
+}
+.wind-speed span{
+    background-color: white;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.sun-info-container{
+    background-color: white;
+    width:80%;
+    height:80%;
+    margin-top: 8%;
+}
+
+.sunrise-info{
+    background-color: white;
+    display: flex;
+    margin-top: 15%;
+    justify-content: center;
+    align-items: center;
+}
+.sunset-info{
+    background-color: white;
+    display: flex;
+    margin-top: 10%;
+    justify-content: center;
+    align-items: center;
+}
+.fa-solid{
+     background-color: white;
+}
+.fa-solid.fa-sun{
+    color:#FFD93D;
+}
+.fa-solid.fa-arrow-up, .fa-solid.fa-arrow-down{
+    color: lightblue;
+}
+.sunrise-info .sunrise, .sunset-info .sunset{
+    background-color: white;
+    font-weight: 500;
+}
+.humidity-container{
+    background-color: white;
+    width:80%;
+    height:90%;
+    margin-top: 6%;
+}
+.water-drop{
+    width:20%;
+    position: relative;
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.water-drop .fa-water{
+    color:lightgrey;
+}
+.water-drop .fa-droplet{
+    position: absolute;
+    color: lightgrey;
+    position: absolute;
+    right:0;
+    bottom:-4px;
+}
+.humidity-status{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.humidity-status .status{
+    margin-left: 0;
+}
+.humidity-percentage{
+    display: flex;
+    height: 80%;
+    background-color: white;
+}
+.humidity{
+    background-color: white;
+    margin-top: 21%;
+    height:50%;
+    font-weight: 500;
+    font-size: 3rem;
+    margin-left: 0;
+}
+.humidity span{
+    background-color: white;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+.pressure-container{
+    background-color: white;
+    width:80%;
+    height:85%;
+    margin-top: 6%;
+}
+.pressure-status{
+    display: flex;
+    background-color: white;
+    align-items: center;
+}
+.fa-solid.fa-gauge{
+    width:20%;
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 2%;
+    color:lightgrey;
+}
+.pressure-status .status{
+    margin-left: 0px;
+}
+.pressure{
+    background-color: white;
+    background-color: white;
+    margin-top: 25%;
+    font-weight: 500;
+    font-size: 3rem;
+    margin-left: 0;
+}
+.pressure span{
+    background-color: white;
+    font-weight: 400;
+    font-size: 1.5rem;
+}

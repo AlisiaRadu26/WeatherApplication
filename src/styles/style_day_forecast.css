@@ -1,0 +1,36 @@
+.right-side-app{
+    margin: 0;
+    background-color: whitesmoke;
+    background-position: center;
+    background-size: cover;
+    border-radius: 0px 35px 35px 0px;
+    width: 70%;
+}
+
+.card-container .temp-card{
+    background-color: white;
+    width:80%;
+    margin-left: 15%;
+    font-weight: 600;
+    display: flex;
+    font-size: 1.5em;
+}
+.card-container .temp-card span{
+    background-color: white;
+    margin:0;
+    font-size: small;
+}
+.card-container .date-card{
+    background-color: white;
+    width:80%;
+    margin-left: 10%;
+}
+.card-container .date-card .day{
+    background-color: white;
+    font-weight: 500;
+}
+.card-container .date-card .time{
+    background-color: white;
+    font-weight: 500;
+    color: #D0C9C0;
+}

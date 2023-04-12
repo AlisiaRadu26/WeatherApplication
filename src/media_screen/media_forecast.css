@@ -1,0 +1,258 @@
+@media only screen and (min-width:2800px) and (max-width: 3000px) {
+    .card-list{
+        height: 28%;
+        width:90%;
+        margin-left: 2%;
+    }
+    .card-container .img-container{
+        width:45%;
+    }
+    .card-container .temp-card, .card-container .temp-min-max-container .temp-card{
+        font-size: 2.5em;
+    }
+    .card-container .temp-min-max-container .temp-card{
+        margin-left: 8%;
+    }
+    .card-container .temp-card span{
+        font-size:x-large;
+    }
+    .card-container .date-card .day, .card-container .date-card{
+        font-size: 1.7rem;
+    }
+    .card-container .description-card{
+        font-size: 1.4rem;
+    }
+}
+
+@media only screen and (min-width:2600px) and (max-width: 2800px) {
+    .card-list{
+        height: 27%;
+        width:90%;
+        margin-left: 2%;
+    }
+    .card-container .img-container{
+        width:45%;
+    }
+    .card-container .temp-card, .card-container .temp-min-max-container .temp-card{
+        font-size: 2.3em;
+    }
+    .card-container .temp-min-max-container .temp-card.min{
+        margin-left: 10%;
+    }
+    .card-container .temp-min-max-container .temp-card.max{
+        margin-left: 0%;
+    }
+    .card-container .temp-card span{
+        font-size:x-large;
+    }
+    .card-container .date-card .day, .card-container .date-card{
+        font-size: 1.7rem;
+    }
+    .card-container .description-card{
+        font-size: 1.4rem;
+    }
+}
+
+@media only screen and (min-width:2400px) and (max-width: 2600px) {
+    .card-list{
+        height: 28%;
+        width:92%;
+        margin-left: 0%;
+    }
+    .card-container .img-container{
+        width:47%;
+    }
+    .card-container .temp-card, .card-container .temp-min-max-container .temp-card{
+        font-size: 2.3em;
+    }
+    .card-container .temp-min-max-container .temp-card.min, .card-container .temp-min-max-container .temp-card.max{
+        margin-left: 6%;
+    }
+    .card-container .temp-card span{
+        font-size: x-large;
+    }
+    .card-container .date-card .day, .card-container .date-card{
+        font-size: 1.6rem;
+    }
+    .card-container .description-card{
+        font-size: 1.5rem;
+    }
+}
+
+@media only screen and (min-width:2200px) and (max-width: 2400px) {
+    .card-list{
+        height: 27%;
+        width:90%;
+        margin-left: 0%;
+    }
+    .card-container .img-container{
+        width:46%;
+    }
+    .card-container .temp-card, .card-container .temp-min-max-container .temp-card{
+        font-size: 2em;
+    }
+    .card-container .temp-min-max-container .temp-card.min{
+        margin-left: 8%;
+    }
+    .card-container .temp-min-max-container .temp-card.max{
+        margin-left: 0%;
+    }
+    .card-container .temp-card span{
+        font-size: large;
+    }
+    .card-container .date-card .day, .card-container .date-card{
+        font-size: 1.4rem;
+    }
+    .card-container .description-card{
+        font-size: 1.3rem;
+    }
+}
+
+@media only screen and (min-width:2000px) and (max-width: 2200px) {
+    .card-list{
+        height: 27%;
+        width:90%;
+        margin-left: 0%;
+    }
+    .card-container{
+        height: 100%;
+    }
+    .card-container .img-container{
+        width:45%;
+    }
+    .card-container .temp-card, .card-container .temp-min-max-container .temp-card{
+        font-size: 1.7em;
+    }
+    .card-container .temp-min-max-container .temp-card.min{
+        margin-left: 10%;
+    }
+    .card-container .temp-min-max-container .temp-card.max{
+        margin-left: 0%;
+    }
+    .card-container .temp-card span{
+        font-size: large;
+    }
+    .card-container .date-card .day, .card-container .date-card{
+        font-size: 1.3rem;
+    }
+    .card-container .description-card{
+        font-size: 1.3rem;
+    }
+}
+
+@media only screen and (min-width:1800px) and (max-width: 2000px) {
+    .card-list{
+        height: 26%;
+        width:93%;
+        margin-left: -1%;
+    }
+    .card-container{
+        height: 100%;
+    }
+    .card-container .img-container{
+        width:40%;
+    }
+    .card-container .temp-card, .card-container .temp-min-max-container .temp-card{
+        font-size: 1.5em;
+    }
+    .card-container .temp-min-max-container .temp-card.min{
+        margin-left: 9%;
+    }
+    .card-container .temp-min-max-container .temp-card.max{
+        margin-left: 0%;
+    }
+    .card-container .temp-card span{
+        font-size: large;
+    }
+    .card-container .date-card .day, .card-container .date-card{
+        font-size: 1.1rem;
+    }
+    .card-container .description-card{
+        font-size: 1.1rem;
+    }
+}
+
+@media only screen and (min-width:1600px) and (max-width: 1800px) {
+    .card-list{
+        height: 24%;
+        width:93%;
+        margin-left: -1%;
+    }
+    .card-container{
+        height: 100%;
+    }
+    .card-container .img-container{
+        width:45%;
+    }
+    .card-container .temp-card, .card-container .temp-min-max-container .temp-card{
+        font-size: 1.5em;
+    }
+    .card-container .temp-min-max-container .temp-card.min{
+        margin-left: 8%;
+    }
+    .card-container .temp-min-max-container .temp-card.max{
+        margin-left: 0%;
+    }
+    .card-container .temp-card span{
+        font-size: large;
+    }
+    .card-container .date-card .day, .card-container .date-card{
+        font-size: 1.12rem;
+    }
+    .card-container .description-card{
+        font-size: 1.1rem;
+    }
+}
+
+@media only screen and (min-width:1425px) and (max-width: 1600px) {
+    .card-container .img-container{
+        width:40%;
+    }
+    .card-container .temp-card, .card-container .temp-min-max-container .temp-card{
+        font-size: 1.2rem;
+    }
+    .card-container .temp-min-max-container .temp-card.min{
+        margin-left: 8%;
+    }
+    .card-container .temp-min-max-container .temp-card.max{
+        margin-left: 0%;
+    }
+    .card-container .temp-card span{
+        font-size: medium;
+    }
+    .card-container .date-card .day, .card-container .date-card{
+        font-size: 1rem;
+    }
+    .card-container .description-card{
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (min-width:1000px) and (max-width: 1200px) {
+    .card-list{
+        height: 30%;
+        width:98%;
+        margin-left: -3%;
+    }
+    .card-container .img-container{
+        width:50%;
+    }
+    .card-container .temp-card, .card-container .temp-min-max-container .temp-card{
+        font-size: 1rem;
+    }
+    .card-container .temp-min-max-container .temp-card.min{
+        margin-left: 8%;
+    }
+    .card-container .temp-min-max-container .temp-card.max{
+        margin-left: 0%;
+    }
+    .card-container .temp-card span{
+        font-size: x-small;
+    }
+    .card-container .date-card .day, .card-container .date-card{
+        font-size: 1rem;
+    }
+    .card-container .description-card{
+        font-size: 0.9rem;
+    }
+}
