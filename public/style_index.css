@@ -1,0 +1,16 @@
+*{
+    background-color: lightgrey;
+    margin: 2% auto;
+}
+
+body{
+    height: auto;
+}
+
+html {
+    height: auto;
+}
+
+#root{
+    height: auto;
+}
