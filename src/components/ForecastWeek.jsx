@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from "react";
-import axios from "axios";
+
 import "../styles/style_forecast.css";
 import "../styles/style_day_forecast.css";
 import "../media_screen/media_forecast.css";
